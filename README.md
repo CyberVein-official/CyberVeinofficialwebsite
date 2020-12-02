@@ -20,6 +20,5 @@ Motion graphics of CyberVein’s official website
 - Design details (position) and design logic
 - Relevant demo codes
 
-cybervein official website：https://www.cybervein.org/
 
 This bounty reward is 100USDT
