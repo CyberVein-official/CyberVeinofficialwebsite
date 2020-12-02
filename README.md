@@ -22,3 +22,21 @@ Motion graphics of CyberVein’s official website
 
 
 This bounty reward is 100USDT
+
+
+
+Contributors：
+Contributors who are individuals must be aged 18 or over. Each contributor represents and undertakes to comply with all local and relevant laws. CyberVein disclaims all liability (to the fullest extent possible at law) for any liabilities that might arise.
+
+
+
+CyberVein reserves the right to:
+- request the full name and contact details of the contributor;
+- request from the contributor any other information that it considers to be necessary or desirable to determine the provenance of the Contribution;
+- undertake any further investigations it deems fit to determine the provenance of the Contribution;
+- publicly disclose the identity of the contributor and the amount of the Contribution; and if the contributor refuses to provide any information requested by CyberVein, CyberVein may refuse and return the Contribution to the contributor at its discretion.
+
+
+
+If you have any questions, please write to cybervin's official website
+mailbox:swapinfo@cybervein.org
