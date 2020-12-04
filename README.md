@@ -22,7 +22,7 @@ The official website needs more motion graphics, icons, pictures, and other desi
 - Relevant demo codes
 
 ```
-This bounty reward is 100USDT
+This bounty reward is 100USD equivalent CVT
 
 ## Contributors:
 
